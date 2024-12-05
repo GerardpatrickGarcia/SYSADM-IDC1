@@ -2,8 +2,8 @@
 
 |  SCHOOL OF INFORMATION TECHNOLOGY |  |  |
 | ----- | :---- | :---: |
-| NAME:  |  |   |
-| SECTION: | DATE SUBMITTED: |  |
+| NAME: Gerard Patrick Garcia  |  |   |
+| SECTION: IDC1 | DATE SUBMITTED: December 3-8|  |
 
 # **\<SUBJECT CODE\> PORTFOLIO**
 
