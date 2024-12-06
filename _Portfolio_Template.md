@@ -49,6 +49,7 @@
 
 **![][image1]**
 ![IMG20241127080840](https://github.com/user-attachments/assets/321b5294-ea4f-4cd8-b1f0-2f02e9e38bb4)
+![IMG20241127080849](https://github.com/user-attachments/assets/5773c79d-d2c1-4447-8a50-cca74c89e762)
 ![IMG20241127062822](https://github.com/user-attachments/assets/420b2a2a-2102-4460-bd76-b1394cbc3b1e)
 
 **\<delete the sample above and include your own quizzes/activities/exam\>**
