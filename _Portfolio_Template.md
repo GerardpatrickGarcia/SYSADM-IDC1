@@ -58,7 +58,7 @@
 
 What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?
 
-|  |
+| My initial expectation for this course  |
 | :---- |
 
 What were the main topics or concepts covered in the course? How did these topics contribute to your understanding of the subject matter?
