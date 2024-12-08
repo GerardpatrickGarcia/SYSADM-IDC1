@@ -18,6 +18,12 @@
 ![IMG20241127062709](https://github.com/user-attachments/assets/73bdf43f-6e04-4c53-adad-809a5bc8ab68)
 ![IMG20241127062550](https://github.com/user-attachments/assets/a047a933-6aaf-4333-83ee-f4e5741a8956)
 ![IMG20241127062515](https://github.com/user-attachments/assets/d7179bec-9e48-4f1c-9285-fd525757041c)
+![FGE_LW1](https://github.com/user-attachments/assets/6e5e2338-cd4c-4f70-9f84-aee9f0c804fd)
+![FG_LW3](https://github.com/user-attachments/assets/7ec7b67a-e447-4b68-a509-b8fa45dfcff2)
+![FG_LW4](https://github.com/user-attachments/assets/5f85afb5-0830-496d-8421-788a59338f5c)
+![Capture](https://github.com/user-attachments/assets/877faa8f-6078-4db1-97e4-e3a16d3e5140)
+
+
 
 **\<delete the sample above and include your own quizzes/activities/exam\>**
 
