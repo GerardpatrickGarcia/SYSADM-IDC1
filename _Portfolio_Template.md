@@ -13,6 +13,11 @@
 ![IMG20241127080840](https://github.com/user-attachments/assets/321b5294-ea4f-4cd8-b1f0-2f02e9e38bb4)
 ![IMG20241127080849](https://github.com/user-attachments/assets/5773c79d-d2c1-4447-8a50-cca74c89e762)
 ![IMG20241127062822](https://github.com/user-attachments/assets/420b2a2a-2102-4460-bd76-b1394cbc3b1e)
+![IMG20241127062741](https://github.com/user-attachments/assets/28656d10-3ec4-4234-9bf4-370efeda3c03)
+![IMG20241127062843](https://github.com/user-attachments/assets/9c192d88-d1cb-4a45-b91f-c1f5166efb34)
+![IMG20241127062709](https://github.com/user-attachments/assets/73bdf43f-6e04-4c53-adad-809a5bc8ab68)
+![IMG20241127062550](https://github.com/user-attachments/assets/a047a933-6aaf-4333-83ee-f4e5741a8956)
+![IMG20241127062515](https://github.com/user-attachments/assets/d7179bec-9e48-4f1c-9285-fd525757041c)
 
 **\<delete the sample above and include your own quizzes/activities/exam\>**
 
