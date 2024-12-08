@@ -5,45 +5,7 @@
 | NAME: Gerard Patrick Garcia  |  |   |
 | SECTION: IDC1 | DATE SUBMITTED: December 3-8|  |
 
-# **\<SUBJECT CODE\> PORTFOLIO**
-
-**Table of Contents**
-
-| Name of Activities | Date of Activity | Page No. |
-| :---- | :---- | :---- |
-| **First Grading** |  |  |
-| Quizzes |  |  |
-| Quiz 1 |  | 1 |
-| Quiz 2 |  | 3 |
-| Quiz 3 |  |  |
-| Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| First Grading Exam |  |  |
-| **Midterms** |  |  |
-| Quizzes |  |  |
-| Quiz 1 |  |  |
-| Quiz 2 |  |  |
-| Quiz 3 |  |  |
-| Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| Midterm Exam |  |  |
-| **Finals** |  |  |
-| Quizzes |  |  |
-| Quiz 1 |  |  |
-| Quiz 2 |  |  |
-| Quiz 3 |  |  |
-| Other Activities |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| \<Name of Activity/Exercise/Library Research/Etc\> |  |  |
-| Final Exam |  |  |
-| Course Reflection |  |  |
-
-**\<insert your scanned activities here include title\>**
+# **\<SYSADM1\> PORTFOLIO**
 
 **Quiz 1:**
 
@@ -58,12 +20,14 @@
 
 What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?
 
-| My initial expectation for this course  |
+| 
+My initial expectation for the course was to gain a solid foundation in system administration, with an emphasis on managing operating systems and implementing effective policies. The course went beyond these expectations by offering valuable, hands-on insights into the  operating system and practical guidance on policy development and application |
 | :---- |
 
 What were the main topics or concepts covered in the course? How did these topics contribute to your understanding of the subject matter?
 
-|  |
+|
+Key topics included the fundamentals of system administration, the architecture of the SYA operating system, and the creation and application of inputting policies. These areas enhanced my understanding of system operations management, security protocols, and methods for maintaining operational efficiency. |
 | :---- |
 
 Reflecting on your learning process, what were the most effective strategies or techniques that helped you grasp and retain the course material?
